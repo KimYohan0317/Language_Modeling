@@ -51,13 +51,19 @@ Both models (`CharRNN` and `CharLSTM`) are capable of learning dependencies in s
 ---
 
 ## Experiment result
-### RNN Model
+#### RNN Model
 
-- **RNN train & valid Loss:** View loss [here](https://github.com/KimYohan0317/Language_Modeling/blob/main/train_RNN.png)
+- **RNN train & valid Loss:**
+  
+  ![RNN train & valid Loss](https://github.com/KimYohan0317/Language_Modeling/blob/main/train_RNN.png)
 
-### LSTM Model
+#### LSTM Model
 
-- **LSTM train & valid Loss:** View loss [here](https://github.com/KimYohan0317/Language_Modeling/blob/main/train_LSTM.png)
+- **LSTM train & valid Loss:**
+  
+  ![LSTM train & valid Loss](https://github.com/KimYohan0317/Language_Modeling/blob/main/train_LSTM.png)
+
+---
 
 #### train & valid Loss
 
